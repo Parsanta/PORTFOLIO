@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7a2dd077.css",
+    "main.js": "/Portfolio/static/js/main.10ffb452.js",
+    "static/media/banner-bg.jpg": "/Portfolio/static/media/banner-bg.166fc76c88e13347d68c.jpg",
+    "static/media/1.png": "/Portfolio/static/media/1.77b2819e0be1ec56dbae.png",
+    "static/media/pro2.png": "/Portfolio/static/media/pro2.9b79b924523833977b6a.png",
+    "static/media/Poppins-Regular.ttf": "/Portfolio/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/pro4.png": "/Portfolio/static/media/pro4.8efc4e897c85df46b1a4.png",
+    "static/media/pro1.jpeg": "/Portfolio/static/media/pro1.8cc0779db3a825c04df4.jpeg",
+    "static/media/2.png": "/Portfolio/static/media/2.ef65c3040fc188ed2431.png",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/contact-img.svg": "/Portfolio/static/media/contact-img.601b5eff7db4b028172ba4934daeaec6.svg",
+    "static/media/header-img.svg": "/Portfolio/static/media/header-img.69340944bbc834333ad23728f598aa84.svg",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/git.svg": "/Portfolio/static/media/git.1b7515255869d00eea8ce0aba5773250.svg",
+    "static/media/java.svg": "/Portfolio/static/media/java.e762a078e3d03dbc7253140068f33ec7.svg",
+    "static/media/react.svg": "/Portfolio/static/media/react.cf0a328eb335bbb70f3b1e0f5f170f4a.svg",
+    "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.375ee9a1358e6bb55bc8b8662bf1ae46.svg",
+    "static/media/css.svg": "/Portfolio/static/media/css.03886f5c7431ec863ec2cb768e953249.svg",
+    "static/media/html5.svg": "/Portfolio/static/media/html5.e2c364a792066ccbbfcbbf4ace880677.svg",
+    "static/media/behance.svg": "/Portfolio/static/media/behance.f3d7f60114eb1ca0e08d1594d36e75bb.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/c.svg": "/Portfolio/static/media/c.1095577d9d8c39a670335c0d263734ed.svg",
+    "static/media/figma.svg": "/Portfolio/static/media/figma.c8fdc0393f5e671b7907c1aa01ef2144.svg",
+    "main.7a2dd077.css.map": "/Portfolio/static/css/main.7a2dd077.css.map",
+    "main.10ffb452.js.map": "/Portfolio/static/js/main.10ffb452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2dd077.css",
+    "static/js/main.10ffb452.js"
+  ]
+}
