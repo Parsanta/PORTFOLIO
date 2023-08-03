@@ -8,7 +8,7 @@ import "aos/dist/aos.css";
 export const Resume = () => {
   const handleDownload = () => {
     window.location.href =
-      "https://drive.google.com/file/d/1UK0wPUJZVl_jXKZaP0bgi7QSTLKNLQ6P/view?usp=sharing";
+      "https://drive.google.com/file/d/187htERNDlYe3nPQrZdUtXP-48aY6uNdS/view?usp=sharing";
   };
   return (
     <Router>

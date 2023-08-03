@@ -32,10 +32,10 @@ export const Projects = () => {
       projectUrl: "https://github.com/Parsanta/Cafe-Management-system",
     },
     {
-      title: "Prefix postfix converter",
-      description: "Using JAVA",
+      title: "NotesMemo",
+      description: "Using Reactjs",
       img: pro6,
-      projectUrl: "https://github.com/Parsanta/infix-prefix-post-notation-converter-evaluater",
+      projectUrl: "https://github.com/Parsanta/NotesMemo",
     },
   ];
   const projectsdesigns = [
