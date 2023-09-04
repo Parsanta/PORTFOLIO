@@ -35,7 +35,7 @@ export const Projects = () => {
       title: "NotesMemo",
       description: "Using Reactjs",
       img: pro6,
-      projectUrl: "https://github.com/Parsanta/NotesMemo",
+      projectUrl: "https://parsanta.github.io/NotesMemo/",
     },
   ];
   const projectsdesigns = [
