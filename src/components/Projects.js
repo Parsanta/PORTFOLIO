@@ -9,6 +9,7 @@ import pro2 from "../assets/img/pro2.png";
 import pro4 from "../assets/img/pro4.png";
 import pro5 from "../assets/img/1.png"
 import pro6 from '../assets/img/2.png'
+import pro7 from '../assets/img/pro7.png'
 import "react-multi-carousel/lib/styles.css";
 
 export const Projects = () => {
@@ -19,6 +20,18 @@ export const Projects = () => {
     return URL("https://www.behance.net/parsantarajpal")
   }
   const projects = [
+    {
+      title: "Recipe_manager",
+      description: "Using Rust",
+      img:pro7,
+      projectUrl: "https://github.com/Parsanta/recipe_manager"
+    },
+    {
+      title: "Recipe_manager",
+      description: "Using Rust",
+      img:pro7,
+      projectUrl: "https://github.com/Parsanta/compression_rust_project"
+    },
     {
       title: "Nawab Dynasty Portfolio Website",
       description: "Pure HTML,CSS,JS",
