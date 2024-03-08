@@ -10,6 +10,7 @@ import pro4 from "../assets/img/pro4.png";
 import pro5 from "../assets/img/1.png"
 import pro6 from '../assets/img/2.png'
 import pro7 from '../assets/img/pro7.png'
+import pro8 from '../assets/img/thumb.jpg'
 import "react-multi-carousel/lib/styles.css";
 
 export const Projects = () => {
@@ -20,6 +21,12 @@ export const Projects = () => {
     return URL("https://www.behance.net/parsantarajpal")
   }
   const projects = [
+    {
+      title: "Dis-patch",
+      description: "Using React and Firebase",
+      img:pro8,
+      projectUrl: "https://dis-patch.vercel.app/"
+    },
     {
       title: "Recipe_manager",
       description: "Using Rust",
