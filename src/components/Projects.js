@@ -28,6 +28,18 @@ export const Projects = () => {
       projectUrl: "https://dis-patch.vercel.app/"
     },
     {
+      title: "NotesMemo",
+      description: "Using Reactjs",
+      img: pro6,
+      projectUrl: "https://parsanta.github.io/NotesMemo/",
+    },
+    {
+      title: "Nawab Dynasty Portfolio Website",
+      description: "Pure HTML,CSS,JS",
+      img: pro1,
+      projectUrl: "https://github.com/Parsanta/Restaurant-Portfolio-Website",
+    },
+    {
       title: "Recipe_manager",
       description: "Using Rust",
       img:pro7,
@@ -40,23 +52,11 @@ export const Projects = () => {
       projectUrl: "https://github.com/Parsanta/compression_rust_project"
     },
     {
-      title: "Nawab Dynasty Portfolio Website",
-      description: "Pure HTML,CSS,JS",
-      img: pro1,
-      projectUrl: "https://github.com/Parsanta/Restaurant-Portfolio-Website",
-    },
-    {
       title: "Cafe Management System",
       description: "using JAVA",
       img: pro5,
       projectUrl: "https://github.com/Parsanta/Cafe-Management-system",
-    },
-    {
-      title: "NotesMemo",
-      description: "Using Reactjs",
-      img: pro6,
-      projectUrl: "https://parsanta.github.io/NotesMemo/",
-    },
+    }
   ];
   const projectsdesigns = [
     {
