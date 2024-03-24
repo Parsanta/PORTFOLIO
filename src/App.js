@@ -7,6 +7,7 @@ import { Projects } from "./components/Projects";
 import { Form } from "./components/form";
 import { Resume } from "./components/resume";
 import { Footer } from "./components/Footer";
+import { Certificates } from "./components/Certificates";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -23,6 +24,7 @@ function App() {
       <Skills  />
       <Resume  />
       <Projects  />
+      <Certificates />
       <Form />
       <Footer />
     </div>

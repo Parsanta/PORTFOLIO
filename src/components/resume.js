@@ -2,13 +2,12 @@ import { Row, Col } from "react-bootstrap";
 import { Download } from "react-bootstrap-icons";
 import { BrowserRouter as Router } from "react-router-dom";
 import Button from "react-bootstrap/Button";
-import AOS from "aos";
 import "aos/dist/aos.css";
 
 export const Resume = () => {
   const handleDownload = () => {
     window.location.href =
-      "https://drive.google.com/file/d/1KHgGzVgz3yzsE_H_Ale-R6JL3vuqRYtL/view";
+      "https://drive.google.com/file/d/1Tsabqk3iZ-l9x-KxFOfYiSBPy-dz8Q2B/view?usp=sharing";
   };
   return (
     <Router>
@@ -20,21 +19,26 @@ export const Resume = () => {
               <div className="about_text">
                 <h3>Hi, I'm Parsanta Lal</h3>
                 <p>
-                  I'm a student of Computer Science Department at DHA Suffa
-                  University. I'm passionate about web development and design,
-                  and I've been honing my skills in this area for some time now.
-                  I specialize in tools like Figma to create visually stunning
-                  designs, and I'm proficient in front-end web development
-                  languages like HTML, CSS, and Reactjs.
-                  <br /> In addition to my design and development skills, I'm
-                  also well-versed in programming languages like C and Java. I'm
-                  always eager to learn and grow, and I'm excited to explore new
-                  opportunities in the field of web development and design.
-                  <br /> Thank you for visiting my profile, and please don't
-                  hesitate to connect with me to discuss any potential
-                  collaborations or opportunities!
+                  I'm a Computer Science student at DHA Suffa University with a
+                  broad interest in technology. While I have experience in web
+                  development and design, where I've specialized in tools like
+                  Figma for creating visually stunning designs and honed my
+                  skills in front-end web development languages such as HTML,
+                  CSS, and React.js, I'm also actively exploring other domains
+                  such as AI and ML.
+                  <br />
+                  Currently, I'm engaged in learning Node.js to deepen my
+                  understanding of full-stack development. Additionally, I'm
+                  exploring AI and ML, eager to apply my programming skills to
+                  this exciting field. Proficient in languages like C, Rust, and
+                  Java, I have a strong appetite for learning and am
+                  enthusiastic about embracing new challenges.
+                  <br />
+                  Thank you for visiting my profile! Feel free to connect with
+                  me to discuss potential collaborations or opportunities.
                   <br />
                 </p>
+
                 <Button variant="outline-light" onClick={handleDownload}>
                   Download My Resume <Download />
                 </Button>

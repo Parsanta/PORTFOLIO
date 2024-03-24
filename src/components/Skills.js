@@ -1,3 +1,4 @@
+import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
@@ -7,6 +8,9 @@ import react from "../assets/img/react.svg";
 import java from "../assets/img/java.svg";
 import c from "../assets/img/c.svg";
 import figma from "../assets/img/figma.svg";
+import rust from "../assets/img/rust.png";
+import tailwind from "../assets/img/tailwindcss.svg";
+import bootstrap from "../assets/img/bootstrap-5-1.svg";
 
 export const Skills = () => {
   const responsive = {
@@ -40,6 +44,8 @@ export const Skills = () => {
                 <Carousel
                   responsive={responsive}
                   infinite={true}
+                  autoPlay={true}
+                  autoPlaySpeed={1000}
                   className="skill-slider"
                 >
                   <div className="item">
@@ -49,6 +55,14 @@ export const Skills = () => {
                   <div className="item">
                     <img src={css} alt="Image" />
                     <h5>CSS</h5>
+                  </div>
+                  <div className="item">
+                    <img src={tailwind} alt="Image" />
+                    <h5>Tailwind css</h5>
+                  </div>
+                  <div className="item">
+                    <img src={bootstrap} alt="Image" />
+                    <h5>Bootstrap 5</h5>
                   </div>
                   <div className="item">
                     <img src={react} alt="Image" />
@@ -61,6 +75,10 @@ export const Skills = () => {
                   <div className="item">
                     <img src={c} alt="Image" />
                     <h5>C</h5>
+                  </div>
+                  <div className="item">
+                    <img src={rust} alt="Image" />
+                    <h5>Rust</h5>
                   </div>
                   <div className="item">
                     <img src={figma} alt="Image" />

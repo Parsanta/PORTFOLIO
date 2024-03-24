@@ -8,7 +8,7 @@ import Button from "react-bootstrap/Button";
 export const Banner = () => {
     const handleDownload = () => {
       window.location.href =
-        "https://drive.google.com/file/d/1qFSXlOVHTHY4TSXss0pxZR2Yy7ifURrZ/view?usp=sharing";
+        "https://drive.google.com/file/d/1Tsabqk3iZ-l9x-KxFOfYiSBPy-dz8Q2B/view?usp=sharing";
     };
   const [loopNum, setLoopnum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
